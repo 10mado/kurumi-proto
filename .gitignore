@@ -1,6 +1,4 @@
-.DS_Store
-.envrc
-.vscode
-/node_modules/
-/vendor/
-*.swp
+/.envrc
+/vendor
+/composer.lock
+
