@@ -1,4 +1,8 @@
 {
+  "name": "10mado/kurumi-proto",
+  "type": "library",
+  "description": "The basic framework using middlewares.",
+  "homepage": "https://github.com/10mado/kurumi-proto",
   "require": {
     "php": "~7.2.0",
     "ext-mbstring": "*",
